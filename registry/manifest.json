@@ -1,0 +1,13 @@
+{
+  "registry_id": "TCR-8821",
+  "title": "Terminal Corridor Registry — Northsound Freight Alliance",
+  "steward": "Alliance Data Office",
+  "active_edition": "NX-2026.1",
+  "superseded_editions": [
+    "NX-2025.4",
+    "NX-2024.3"
+  ],
+  "published": "2026-01-08",
+  "site_count": 175,
+  "usage_note": "The active edition is the only edition permitted for quarterly and regulatory returns filed after 2026-01-01."
+}
